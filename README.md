@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Prajapat! 👋
 
-<!--
-**nikhil-mrsoft/nikhil-mrsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Developer | Backend Engineer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate **Python Developer** currently working at **MR Software** in Ujjain. I specialize in building robust backend systems, scalable APIs, and integrating intelligent machine learning solutions. I am continuously learning and exploring new technologies to solve complex problems and elevate my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Backend Development:** Python, Django, FastAPI
+- **AI / ML:** Machine Learning, Deep Learning, Data Analysis, Predictive Modeling
+- **Databases & Tools:** SQL, Git & GitHub, RESTful APIs
+
+---
+
+### 📈 What I'm Up To Right Now
+
+- 💻 **Current Role:** Building efficient backend systems at MR Software, Ujjain.
+- 🚀 **Learning:** Deepening my expertise in AI/ML architectures and advanced system design.
+- ⚡ **Goal:** Exploring cutting-edge technologies to enhance my development workflow and career growth.
+
+---
+
+### 🤝 Connect with Me
+
+Let's connect and talk about Python, backend architectures, or the future of AI!
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:your.email@example.com)
+
+---
+
+⚡ *“Continuous learning is the minimum requirement for success in any field.”*
