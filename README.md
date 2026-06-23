@@ -27,7 +27,7 @@ I am a passionate **Python Developer** currently working at **MR Software** in U
 Let's connect and talk about Python, backend architectures, or the future of AI!
 
 [![LinkedIn](https://img.shields.io/badge/Linked-In)](https://in.linkedin.com/in/nikhil-prajapat-b547882a4)
-[![Email](https://img.shields.io/badge/Email-8A2BE2)](mailto:nikhil.prajapat@mrsoftwares.in)
+[![Email](https://img.shields.io/badge/Email-8A2BE2)](nikhil.prajapat@mrsoftwares.in)
 
 ---
 
