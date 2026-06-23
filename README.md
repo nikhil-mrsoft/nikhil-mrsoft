@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Prajapat! 👋
+# Hi, I'm Nikhil Prajapat! 👋
 
 ### 🚀 Python Developer | Backend Engineer | AI/ML Enthusiast
 
@@ -26,8 +26,8 @@ I am a passionate **Python Developer** currently working at **MR Software** in U
 
 Let's connect and talk about Python, backend architectures, or the future of AI!
 
-[![LinkedIn](https://shields.io)](https://in.linkedin.com/in/nikhil-prajapat-b547882a4)
-[![Email](https://shields.io)](mailto:nikhil.prajapat@mrsoftwares.in)
+[![LinkedIn](https://img.shields.io/badge/Linked-In)](https://in.linkedin.com/in/nikhil-prajapat-b547882a4)
+[![Email](https://img.shields.io/badge/Email-8A2BE2)](mailto:nikhil.prajapat@mrsoftwares.in)
 
 ---
 
