@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Prajapat! 👋
+# Hi, I'm Nikhil Prajapat ! 👋
 
 ### 🚀 Python Developer | Backend Engineer | AI/ML Enthusiast
 
