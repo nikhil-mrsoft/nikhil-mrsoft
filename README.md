@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Prajapat ! 👋
 
-### 🚀 Python Developer | Backend Engineer | AI/ML Enthusiast
+### 🚀 Python Developer & AI/ML Enthusiast
 
 I am a passionate **Python Developer** currently working at **MR Software** in Ujjain. I specialize in building robust backend systems, scalable APIs, and integrating intelligent machine learning solutions. I am continuously learning and exploring new technologies to solve complex problems and elevate my engineering skills.
 
