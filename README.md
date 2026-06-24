@@ -5,7 +5,7 @@
 I am a passionate **Python Developer** currently working at **MR Software** in Ujjain. I specialize in building robust backend systems, scalable APIs, and integrating intelligent machine learning solutions. I am continuously learning and exploring new technologies to solve complex problems and elevate my engineering skills.
 
 ---
-![Project Screenshot](image-ji3_bz59embefy.png)
+![Project Screenshot](image.png)
 ---
 ### 🛠️ Tech Stack & Skills
 
